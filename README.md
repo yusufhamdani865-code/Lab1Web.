@@ -30,7 +30,7 @@ Langkah pertama adalah membuat dokumen HTML menggunakan struktur dasar HTML5. St
 
 Struktur dasar ini digunakan sebagai kerangka utama untuk membuat halaman web.
 
-![SS1 - Struktur Dasar HTML](screenshot/ss%201.png)
+![SS1 - membuat struktur dasar HTML](Screenshot/ss%201.png)
 
 ---
 
@@ -40,7 +40,7 @@ Selanjutnya dibuat judul halaman menggunakan elemen `<h1>` dan bagian data diri 
 
 Data diri yang ditampilkan meliputi nama, NIM, dan program studi. Elemen `<strong>` digunakan untuk memberikan penekanan pada informasi tertentu, sedangkan `<i>` digunakan untuk membuat teks menjadi miring.
 
-![SS2 - Judul dan Data Diri](screenshot/ss%202.png)
+![SS2 - Judul dan Data Diri](Screenshot/ss%202.png)
 
 ---
 
@@ -56,7 +56,7 @@ Contoh penggunaan gambar:
 <img src="images/profil.jpg" width="200" alt="Foto profil Yusuf Hamdani">
 ```
 
-![SS3 - Gambar dan Hyperlink](screenshot/ss%203.png)
+![SS3 - Gambar dan Hyperlink](Screenshot/ss%203.png)
 
 ---
 
@@ -86,7 +86,7 @@ Contoh penggunaan ordered list:
 </ol>
 ```
 
-![SS4 - Keahlian dan Target Belajar](screenshot/ss%204.png)
+![SS4 - Keahlian dan Target Belajar](Screenshot/ss%204.png)
 
 ---
 
@@ -96,7 +96,7 @@ Setelah seluruh elemen HTML selesai dibuat, halaman profil mahasiswa dijalankan 
 
 Hasil akhir menampilkan judul, data diri, gambar profil, hyperlink, daftar keahlian, dan target belajar dalam satu halaman web.
 
-![SS5 - Hasil Akhir](screenshot/ss%205.png)
+![SS5 - Hasil Akhir](Screenshot/ss%205.png)
 
 ---
 
